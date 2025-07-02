@@ -1,0 +1,57 @@
+[
+    {
+        "description": "Buy groceries",
+        "due_date": "2025-06-10",
+        "completed_status": false
+    },
+    {
+        "description": "Clean the room",
+        "due_date": "2025-06-11",
+        "completed_status": true
+    },
+    {
+        "description": "Pay electricity bill",
+        "due_date": "2025-06-12",
+        "completed_status": true
+    },
+    {
+        "description": "Call a friend",
+        "due_date": "2025-06-10",
+        "completed_status": false
+    },
+    {
+        "description": "Water the plants",
+        "due_date": "2025-06-10",
+        "completed_status": true
+    },
+    {
+        "description": "Finish reading a book",
+        "due_date": "2025-06-14",
+        "completed_status": false
+    },
+    {
+        "description": "Go for a morning walk",
+        "due_date": "2025-06-10",
+        "completed_status": true
+    },
+    {
+        "description": "Check emails",
+        "due_date": "2025-06-09",
+        "completed_status": true
+    },
+    {
+        "description": "Organize study table",
+        "due_date": "2025-06-11",
+        "completed_status": false
+    },
+    {
+        "description": "Do laundry",
+        "due_date": "2025-06-13",
+        "completed_status": false
+    },
+    {
+        "description": "check linkdin",
+        "due_date": "14/06/2025",
+        "completed_status": false
+    }
+]
